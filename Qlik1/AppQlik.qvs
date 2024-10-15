@@ -1,7 +1,0 @@
-InlineTableName:
-Load * Inline [
-    Field1,Field2
-    5,2
-];
-
-// Teste Edicao Sergio
